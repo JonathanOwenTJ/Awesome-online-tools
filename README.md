@@ -59,6 +59,10 @@ check their papers, emails, and other important documents.
 - [JSONPath](https://www.rdtoc.com/tools/jsonpath) - Extract json text by JSONPath syntax
 - [TableConvert](https://tableconvert.com/) - A powerful online table editor that converts between CSV, HTML and Markdown. Easy to convert html tables to SQL, JSON, XML and Text, Makes it easier to work with tables.
 - [JWT Decoder](https://jwt.ssotools.com/) - An online JWT decoder tool, that can be used to decode and verify the JWT. 
+- [LogoMovo](https://logomovo.com/) - AI-assisted logo directions with editable symbols, typography and layout; Studio and SVG/PNG downloads require an account and active paid plan.
+- [AI Lab Utilities](https://ailab.packscena.com/) - Browser utility hub with a no-login basic image-compression experience; other complete tools require sign-in and points.
+- [SubAtlas](https://subatlas.packscena.com/) - Source-linked AI subscription-offer comparison with term, region, currency and delivery filters; third-party listings are separate from official regional reference prices.
+- [DishVivid](https://dishvivid.com/) - Food-photo lighting, color and crop editing with original/result comparison and JPEG download; manual editing needs no account, while optional AI needs sign-in and available edits.
 
 
 
