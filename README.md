@@ -63,6 +63,7 @@ check their papers, emails, and other important documents.
 - [AI Lab Utilities](https://ailab.packscena.com/) - Browser utility hub with a no-login basic image-compression experience; other complete tools require sign-in and points.
 - [SubAtlas](https://subatlas.packscena.com/) - Source-linked AI subscription-offer comparison with term, region, currency and delivery filters; third-party listings are separate from official regional reference prices.
 - [DishVivid](https://dishvivid.com/) - Food-photo lighting, color and crop editing with original/result comparison and JPEG download; manual editing needs no account, while optional AI needs sign-in and available edits.
+- [Paper Texture](https://paper-texture.com/) - Free browser-local paper overlay editor plus six AI-generated PNG samples under a design-use license; original files are not CC0 or licensed for standalone redistribution.
 
 
 
